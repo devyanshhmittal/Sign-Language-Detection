@@ -12,18 +12,13 @@ Sign language is a crucial form of communication for individuals with hearing im
 
 This project leverages Flask for the web interface and TensorFlow/Keras for the machine learning model to recognize sign language gestures in real-time from a webcam feed.
 
-<img src="hand-signs-of-the-ASL-Language.png"  width="60%"/>
+<img src="downloads/hand-signs-of-the-ASL-Language.png"  width="60%"/>
 
 > American Sign Language Convention for Alphabets.
 
-<img src="sign%20language%202.jpg"  width="60%"/>
+<img src="downloads/sign%20language%202.jpg"  width="60%"/>
 
 > Custom Sign Language for Words / Sentences.
-
-## Demo
-
-Showcasing a demonstration of the Realtime Sign Language Detection 
-
 
 ## Features
 * **Real-time sign language recognition**: Captures hand gestures using the Mediapipe library to track landmarks and movements.
