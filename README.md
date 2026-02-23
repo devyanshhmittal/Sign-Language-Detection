@@ -40,7 +40,7 @@ To get started with the Sign Language Translator, follow these steps:
 7. **Flask**: Web framework to develop the application.
 8. **Flask-SocketIO**: Adds low-latency bi-directional communication between clients and the server to Flask applications.
 
-Made with Love:- Devyansh Mittal
+Made with Love:- Devyansh Mittal, Anshika Sharma
 
 
 
